@@ -5,9 +5,11 @@ body{
 }
 h1{
     font-size: 36px;
+    color: darkred;
 }
 p{
     font-size: 18px;
+    color: darkblue;
 }
 
 
